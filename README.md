@@ -10,11 +10,11 @@ Add an amount class
 ###Javascript
 
     <script type="text/javascript">
-    $(function(){
-      var options = {
-        width: 100,
-        symbol: '$'
-      };
-      $('.amount').money_field(options);
-    });
-  </script>
+      $(function(){
+        var options = {
+          width: 100,
+          symbol: '$'
+        };
+        $('.amount').money_field(options);
+      });
+    </script>
